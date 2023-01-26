@@ -15,7 +15,7 @@
     },
     "keywords": [],
     "author": "",
-    "license": "ISC",
+    "license": "MIC",
     "devDependencies": {
         "nodemon": "^2.0.3"
     },
