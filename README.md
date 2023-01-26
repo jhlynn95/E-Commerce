@@ -16,6 +16,7 @@
   Run mysql to run the file in db folder, schema.sql to create the database. Then quit out of mysql, then run all seed files on the terminal if you want the seeds to be added to your database. Then run the application by typing and enterning in the terminal 'npm start'. Then open insomnia and make different request based on your needs to see, create, update, and delete from the database.
 
   ## Video
+[Untitled_ Jan 25, 2023 6_27 PM.webm](https://user-images.githubusercontent.com/109389786/214752637-887f8660-ec5f-4726-8091-52b074789f10.webm)
 
 
   ## Questions
